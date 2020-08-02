@@ -1,0 +1,1 @@
+print(['IGNORE HIM!','CHAT WITH HER!'][len(set(list(input())))%2==0])
